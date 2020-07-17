@@ -1,0 +1,21 @@
+{
+"customers":[
+    {
+        "name":"Jhon Doe",
+        "phone":"0190098889",
+        "address":"Jhon Doe, house, melno street",
+        "membership":"Platinum",
+        "id":"1"
+    },
+
+    {
+        "name":"Mumumaria",
+        "phone":"0190098889",
+        "address":"Jhon Doe, house, melno street",
+        "membership":"Super",
+        "id":"2"
+    }
+
+]
+
+}
