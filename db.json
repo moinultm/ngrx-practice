@@ -1,21 +1,32 @@
 {
-"customers":[
+  "customers": [
     {
-        "name":"Jhon Doe",
-        "phone":"0190098889",
-        "address":"Jhon Doe, house, melno street",
-        "membership":"Platinum",
-        "id":"1"
+      "name": "Mumumaria",
+      "phone": "0190098889",
+      "address": "Jhon Doe, house, melno street",
+      "membership": "Super",
+      "id": "2"
     },
-
     {
-        "name":"Mumumaria",
-        "phone":"0190098889",
-        "address":"Jhon Doe, house, melno street",
-        "membership":"Super",
-        "id":"2"
+      "name": "nice",
+      "phone": "0190098889",
+      "address": "Jhon Doe, house, melno street",
+      "membership": "Super",
+      "id": "3"
+    },
+    {
+      "name": "awosome",
+      "phone": "0190098889",
+      "address": "Jhon Doe, house, melno street",
+      "membership": "Super",
+      "id": "4"
+    },
+    {
+      "name": "dhaka",
+      "phone": "12121",
+      "address": "2/1dhaka",
+      "membership": "Basic",
+      "id": "ht9AWYe"
     }
-
-]
-
+  ]
 }
